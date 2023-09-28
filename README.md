@@ -13,8 +13,8 @@
       <td><h3>Pembimbing </h3></td>
     </tr>
     <tr>
-      <td><h3>Dr. Mukhsar, S.Si., M.Si</h3></td>
-      <td><h3>Dr. Gusti Ngurah Adhi Wibawa, S.Si., M.Si</h3></td>
+      <td><h3>1. Dr. Mukhsar, S.Si., M.Si</h3></td>
+      <td><h3>2. Dr. Gusti Ngurah Adhi Wibawa, S.Si., M.Si</h3></td>
     </tr>
   </table>
 </div>
