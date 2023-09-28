@@ -37,3 +37,4 @@
 ☑️ Model Support Vector Machine (SVM)
 <p></p>
 
+![alt text](https://github.com/dionfmipauho/SENTIMEN-ANALISIS-SVM/blob/main/DATA%20SET/Public/output.png?raw=true)
