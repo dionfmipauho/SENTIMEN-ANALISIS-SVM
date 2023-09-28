@@ -5,7 +5,7 @@
   <h3 align="center">Dion Andrawan Ardan</h3>
   <br></html>
 <body>
-  <h2>Dosen</h2>
+  <h2></h2>
 <div class="container">
   <table>
     <tr>
