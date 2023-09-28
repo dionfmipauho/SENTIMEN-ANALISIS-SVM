@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
 <h1 align="center">Analisis Sentimen Persepsi Publik Tentang program Merdeka Belajar Kampus Merdeka Di Twitter Menggunakan Support Vector Machine (SVM) </h1>
-<h3 align="center">Diajukan Sebagai Bahan Seminar Proposal</h3>
   <h3 align="center">Oleh :</h3>
   <h3 align="center">Dion Andrawan Ardan</h3>
-  <h3 align="center">F1A219045</h3>
-  <h3 align="center">Telah Disetujui Oleh :</h3>
   <br></html>
 <body>
   <h2>Dosen</h2>
