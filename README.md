@@ -9,8 +9,8 @@
 <div class="container">
   <table>
     <tr>
-      <td><h3>Pembimbing 1</h3></td>
-      <td><h3>Pembimbing 2</h3></td>
+      <td><h3>Pembimbing </h3></td>
+      <td><h3>Pembimbing </h3></td>
     </tr>
     <tr>
       <td><h3>Dr. Mukhsar, S.Si., M.Si</h3></td>
