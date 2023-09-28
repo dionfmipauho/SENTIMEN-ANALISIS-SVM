@@ -6,6 +6,7 @@
   <h3 align="center">Dion Andrawan Ardan</h3>
   <h3 align="center">F1A219045</h3>
   <h3 align="center">Telah Disetujui Oleh :</h3>
+  <br></html>
 <body>
   <h2>Dosen</h2>
 <div class="container">
@@ -20,5 +21,7 @@
     </tr>
   </table>
 </div>
-
-
+<br></body>
+  <p></p>
+<h3 align="left">Bahasa Program:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
