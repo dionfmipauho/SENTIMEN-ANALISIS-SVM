@@ -37,9 +37,9 @@
 ☑️ Model Support Vector Machine (SVM)
 <p></p>
 
-<h3 align="left">Sentimen Positif:</h3>
+
 ![alt text](https://github.com/dionfmipauho/SENTIMEN-ANALISIS-SVM/blob/main/DATA%20SET/Public/output.png?raw=true)
 <p></p>
 <h3 align="left">Sentimen Positif:</h3>
+
 ![alt text](https://github.com/dionfmipauho/SENTIMEN-ANALISIS-SVM/blob/main/DATA%20SET/Public/output1.png?raw=true)
-<p></p>
