@@ -22,7 +22,7 @@
   <p></p>
 <h3 align="left">Bahasa Program:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<body>
 <h3 align="left">Prosedur Penelitian:</h3>
 <p></p>
 ☑️ Crawling Data
@@ -37,7 +37,7 @@
 ☑️ Model Support Vector Machine (SVM)
 <p></p>
 <p></p>
-<p></p>
+<br></body>
 <h3 align="left">Sentimen Positif:</h3>
 
 ![alt text](https://github.com/dionfmipauho/SENTIMEN-ANALISIS-SVM/blob/main/DATA%20SET/Public/output.png?raw=true)
