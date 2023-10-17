@@ -48,6 +48,3 @@
 <p></p>
 <p></p>
 
-<h3 align="left">Training Score Vs Cross Validation Score :</h3>
-
-![alt text](https://github.com/dionfmipauho/SENTIMEN-ANALISIS-SVM/blob/main/DATA%20SET/Public/output2.png?raw=true)
