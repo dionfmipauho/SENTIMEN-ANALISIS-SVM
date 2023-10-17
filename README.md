@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h1 align="center">Analisis Sentimen Persepsi Publik Tentang program Merdeka Belajar Kampus Merdeka Di Twitter Menggunakan Support Vector Machine (SVM) </h1>
+<h1 align="center">Analisis Sentimen Persepsi Publik Tentang program Merdeka Belajar Kampus Merdeka Di X Menggunakan Support Vector Machine (SVM) </h1>
   <h3 align="center">Oleh :</h3>
   <h3 align="center">Dion Andrawan Ardan</h3>
   <br></html>
@@ -13,7 +13,7 @@
       <td><h3>Pembimbing </h3></td>
     </tr>
     <tr>
-      <td><h3>1. Dr. Mukhsar, S.Si., M.Si</h3></td>
+      <td><h3>1. prof. Dr. Mukhsar, S.Si., M.Si</h3></td>
       <td><h3>2. Dr. Gusti Ngurah Adhi Wibawa, S.Si., M.Si</h3></td>
     </tr>
   </table>
