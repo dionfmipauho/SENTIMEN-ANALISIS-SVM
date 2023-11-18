@@ -3,6 +3,7 @@
 <h1 align="center">Analisis Sentimen Persepsi Publik Tentang program Merdeka Belajar Kampus Merdeka Di Twitter Menggunakan Support Vector Machine (SVM) </h1>
   <h3 align="center">Oleh :</h3>
   <h3 align="center">Dion Andrawan Ardan</h3>
+  <h3 align="center">Dion Andrawan Ardan</h3>
   <br></html>
 <body>
   <h2></h2>
